@@ -11,6 +11,6 @@ The assignment 1 is about data transformation using Power Query (Performing basi
 3. Removed duplicates.
 4. Changed the headers of the loaded file.
 5. Deleted unwanted column such as Raw ID, Product ID and Postal Code.
-6. Sorted oder date (ascending order).
+6. Sorted order date (ascending order).
 7. Created column chart using order Id and category (for checking data).
 8. Managed relationship between three tables.
